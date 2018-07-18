@@ -2,7 +2,8 @@
 
 ### Restaurants
 
-Will fill in later.
+- The Pharmacy
+- Bento Cafe
 
 ### Things to do
 
