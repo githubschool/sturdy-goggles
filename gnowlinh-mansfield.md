@@ -2,8 +2,10 @@
 
 ### Restaurants
 
-Will finll in later.
+- Steven's Grill
 
 ### Things to do
 
-Will fill in later.
+- Play Hockey
+- Biking
+- Waterpark
