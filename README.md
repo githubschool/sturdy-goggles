@@ -6,4 +6,4 @@ July 18-19, 2018
 
 Please report bugs by opening a new issue.
 
-If you'd like to help, look for issues labeled `help-wanted`.
+If you'd like to help, look for issues labeled [`help-wanted`](https://github.com/githubschool/sturdy-goggles/labels/help%20wanted).
